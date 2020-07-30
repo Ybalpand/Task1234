@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "samplepong.ribbon.eureka.Server.ListRefreshInterval",
+  "type": "java.lang.String",
+  "description": "A description for 'samplepong.ribbon.eureka.Server.ListRefreshInterval'"
+}]}

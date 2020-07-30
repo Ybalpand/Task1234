@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spring-cloud-ribbon.ribbon.listofservers",
+  "type": "java.lang.String",
+  "description": "A description for 'spring-cloud-ribbon.ribbon.listofservers'"
+}]}
